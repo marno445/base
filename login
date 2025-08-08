@@ -3,5 +3,8 @@
     "username": "admin",
     "password": "admin123"
   },
-  "users": {}
+  "users": {
+"username": "free",
+"password": "free2024"
+  }
 }
