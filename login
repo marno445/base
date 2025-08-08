@@ -5,7 +5,7 @@
   },
   "users": {
     "free": { "password": "free01" }
-  "user": {
+  "users": {
     "rose": { "password": "rose01" }
   }
 }
