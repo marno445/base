@@ -1,14 +1,9 @@
 {
   "owner": {
-    "username": "admin",
-    "password": "admin123"
+    "username": "Marno",
+    "password": "2025"
   },
   "users": {
-    "free": {
-      "password": "free"
-    },
-    "bob": {
-      "password": "bobpass"
-    }
+    "free": { "password": "free01" }
   }
 }
